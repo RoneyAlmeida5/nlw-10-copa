@@ -15,9 +15,9 @@
 }
 
 body.blue {
-  --card-color-primary: #9D1717;
-  --card-title-border-color: #9D1717;
-  --card-bg-color: #9D1717;
+  --card-color-primary: #9d1717;
+  --card-title-border-color: #9d1717;
+  --card-bg-color: #9d1717;
 }
 
 body.green {
@@ -72,7 +72,7 @@ header {
   width: fit-content;
   margin-inline: auto;
   margin-bottom: 53px;
-  color: #FF0000;
+  color: #ff0000;
 }
 
 .card h2 span {
@@ -155,7 +155,5 @@ main {
 @media (min-width: 700px) {
   #cards {
     max-width: 670;
-    flex-direction: row;
-    flex-wrap: wrap;
   }
 }
